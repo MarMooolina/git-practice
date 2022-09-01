@@ -1,3 +1,4 @@
 Name: MarMolina
 Age: 25
 Favorite Color: Yellow
+Favorite Animal: Kitty
